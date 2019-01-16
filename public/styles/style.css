@@ -1,0 +1,43 @@
+
+  .list-group-item {
+    line-height: 2.5;
+  }
+
+  html, header, nav, body {
+    background-color: #1AE8CF;
+  }
+
+  html {
+    box-sizing: border-box;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+  .splash {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #1AE8CF;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  .lib-preview {
+    background-color:  #60EFDD;
+  }
+
+  .login {
+    float:left;
+  }
+
+  #registration-table th,
+  td {
+    display: inline-block;
+    width: 16.575%;
+  }
+
+  .dark-blue {
+    background-color: #1ae8cf;
+  }
